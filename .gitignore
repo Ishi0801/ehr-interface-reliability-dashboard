@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Large raw archives (downloaded from Synthea)
+data/raw/*.csv
+data/raw/*.gz
+data/raw/*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
